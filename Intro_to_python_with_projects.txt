@@ -1,0 +1,7 @@
+Mosh's 6-hour video on Introduction to Python covers the fundamental concepts of Python programming. 
+The course starts by explaining the basics of Python syntax, data types, and variables.Mosh puts a lot of
+emphasis on the importance of different types in python and how type converters need to be used in places to avoid errors
+Mosh then delves into more advanced topics like control flow, loops, functions, and exception handling.Here the key differences between for and while loops elaborating upon the same using different examples to highlight the use cases of each. There is also an introduction to functions and lists and their various methods. He also tuches upon some important libraries used frequently
+He also covers object-oriented programming principles, including classes,methods and inheritance.
+Clean and readable code is encouraged and emphasized upon throughout the video along with leveraging
+Python's built-in libraries and following the best practices like adding line breaks.The video wraps up with 3 follow along examples/projects that bring everthing together.We also get a little taste of machine learning and web development with python.

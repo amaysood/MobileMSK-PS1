@@ -1,0 +1,8 @@
+"Intro to Linux scripting" offers a comprehensive introduction to scripting in the Linux operating system. 
+Essential scripting concepts, such as variables, conditionals, loops, functions, and file manipulation are covered in the course.
+Scripting is used to automate many tasks that need to be manually performed
+on the command line otherwise. The course provides hands-on practice with shell scripting using popular 
+shells like Bash. As we progress in the course,it dives into advanced topics like regular expressions, process management,
+and command-line utilities, examples are used to provid a better understanding of the working of the concepts.
+After finishing the course I have a good grasp on the foundations of linux scripting which will enable me to be more productive
+by automating mundane command line tasks and streamlining workflow.

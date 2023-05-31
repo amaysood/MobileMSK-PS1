@@ -1,0 +1,7 @@
+Introduction to Git and GitHub is a comprehensive overview of the version control system Git 
+and the collaborative platform GitHub. The course starts by explaining the fundamental concepts of version control 
+and the benefits of using Git. It covers essential commands such as initializing a repository, committing changes, 
+branching, merging, and resolving conflicts. Further into the course we have hands-on practice with GitHub, 
+demonstrating how to create repositories, collaborate with others, and manage projects effectively. 
+By the end of the course,I gained a solid understanding of Git and GitHub, enabling me 
+to efficiently track and manage codebases and collaborate with other developers.

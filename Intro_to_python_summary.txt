@@ -1,0 +1,5 @@
+Also a video by Mosh, explores the basics of Python Programming, Starts of from the very basics with
+uses of Pythons how the interpreter works and moves on to basic syntax,types etc. Watching this video after watching the 
+6 hour Python course is a bit repetitive since almost all of the content in this video is present in the 6 hour video as
+it is namely syntax,type conversion,flow control(if else), for and while loops and introduction to functions and lists along
+with their methods. Lastly he touches upon tuples and their importance

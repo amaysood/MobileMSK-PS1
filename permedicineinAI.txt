@@ -1,0 +1,17 @@
+With the advancement of technology, it is impossible to deny the fact that we live in the age of 
+data. Seperating big data/Machine Learning from any industry is becoming more and more improbable.
+The field of Medicine is no exception to this fact. Several efforts have been made to incorporate the advantages
+of Machine learning and big data in the field of Medicine in the form of EMR and
+AI algorithms to track onset of new diseases,Use of standardized data for development
+of new drugs.Personalized medical services deal with comprehensive analysis of a 
+variety of medical information of the patient such as personal health history, family history etc.This information
+as of now is stored in th form of various scattered prescriptions,records all in the physical form.EMR tackles this problem
+by creating an electronic record of all the information of the patient, which is now also being summarized into
+one conclusive page with all the vital information.This enables doctors in the future to easily access all the required
+information via EMR. This helps avoid uncertain diagonis. There have also been alot of success in the area
+of predicting diseases in patients using EMR for example cardiac arrest was predicted in patients with pver 90% accurracy
+.One of the issues with EMR is privacy and how it is easily be attacked by someone on the internet.Solutions to this
+are provided in the form of blockchain hosted EMR and locally hosted EMR. These provide a secure way of maintaing digital
+records while also giving the patient a certain amount of autonomy of their private data.Some countries like South Korea
+and the USA have already adopted measures to integrate EMR into the national medical sectors and there is a good likelihood
+of other countries to follow suit with upcoming research in the field.
